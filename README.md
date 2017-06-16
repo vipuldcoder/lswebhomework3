@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Vipul Aggarwal
 
-I like to:
+I like to: Be a Traveller 
 
-I'm learning:
+I'm learning: Web Development 
 
 ```
 
