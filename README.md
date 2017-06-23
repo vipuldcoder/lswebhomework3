@@ -21,6 +21,8 @@ I'm learning: Web Development
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 4. Push it up to your own repository on Github (don't try to override the original).
 
 ## Task Two ##
